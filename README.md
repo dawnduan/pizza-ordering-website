@@ -27,7 +27,7 @@ MEANS stack is used here for implementation.
   - Single Page App: Angular powered Single Page Application (SPA)
     - Pros
     - 1. Single time file load of JS and CSS files
-    - 1. Reduce the number of page refreshes when using a webapp
-    - 1. Reduce the number of requests to load pages from sever
-    - 1. Alllow more effective use of caching and local storage
-    - 1. End up with a faster and more seamless application 
+    - 2. Reduce the number of page refreshes when using a webapp
+    - 3. Reduce the number of requests to load pages from sever
+    - 4. Alllow more effective use of caching and local storage
+    - 5. End up with a faster and more seamless application 
